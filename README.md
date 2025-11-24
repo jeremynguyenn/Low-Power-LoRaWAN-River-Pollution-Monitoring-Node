@@ -1,9 +1,6 @@
 # Smartwater
 
-
 This repository contains project files for the PCB design of an IoT sensor node responsible for datalogging of pollution parameters in rivers. 
-
-The design was done in Altium 19 in collaboration with [Bjørn Brodtkorb](https://github.com/bjornbrodtkorb) as part of the subject [TTT4270](https://www.ntnu.no/studier/emner/TTT4270/2018) at NTNU.
 
 ---
 
